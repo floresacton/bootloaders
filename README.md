@@ -1,2 +1,2 @@
-# canfd-bootloader
-STM32 CAN FD Bootloader
+# bootloaders
+Minimalist STM32 Bootloaders
